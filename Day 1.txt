@@ -1,0 +1,63 @@
+
+
+ Manual Testing
+ ==============
+
+ Why Manual Testing
+ ==================
+
+  Without Manual Testing - We cannot perform Automation
+=====================
+
+Major Topics in Manual Testing
+==============================
+
+  SDLC - Software Development Life Cycle
+
+  STLC - Software Testing Life Cycle
+
+  Manual Testing types and Techniques
+
+  Testcase Creation and Test Case Development
+  
+  Agile Methadalogy ( Software Methadalogy)
+
+
+====================================
+
+ What is Testing
+ ===============
+
+   It Is The Process, To Check the Application Which is created by developers, is working as per the customer 
+Requirements or not is Known as Testing
+
+
+ Types Of Testing
+ ================
+
+ Manual Testing
+ ==============
+
+  To check the Application is working as per the Requirement or not by Manually without the automation Tool.
+
+ Automation Testing
+ ==================
+
+  With the help of the Automation tools, to check the application is working as per indend.
+
+===============================================================
+
+verify if the user is able to login using valid username and valid password
+
+Verify if the user is able to login using invalid username and valid password
+
+varify if the user is able to login using valid usename and invalid password
+
+verify if the user is able to login using invalid usename and invalid password
+
+=================================================
+RTM -> Requirements testcase 
+test coverage - 95 to 100%
+========
+
+product backlogs - overall task

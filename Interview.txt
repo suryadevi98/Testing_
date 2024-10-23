@@ -1,0 +1,23 @@
+
+Can you write one method that should accept dynamically the following parameters: payload, endpoint, method?
+Inside the method, write the logic to send a request and get the response from the server. 
+
+
+
+public <T> Repsonse sendRequest(T payload, String endpoint,Method method)
+{
+RestAsssured.baseURI="";
+RequestSpecification request = RestAssured.given();
+request.contentType("application/json");
+if(payload!= null)
+{
+
+request.body(payload);
+
+}
+Response response=request.request(method,endpoint);
+return response;
+}
+}
+
+======================================

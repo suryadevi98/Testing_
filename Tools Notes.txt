@@ -1,0 +1,38 @@
+
+ GIT and GITHUB
+ ==============
+
+  -> Source Code Management Tool or Version Control System
+  -> .GIT - Local Repository
+  -> GitHub - Rempote Repo
+  ->  uploaded downloaded process push and pull
+
+ Git Commands - Command Prompt or Git Bash
+
+ Once We complete the automation Code as per the Requirement, We will provide or give a demo or code review
+to the test lead or client , then once it is been done successfully , then we will push our code local to remote
+- this is master branch
+
+====================================
+
+JIRA
+====
+
+  -> Defect Tracking Tool
+  -> Test Management Tool
+  -> Agile Management Tool
+  -> Project Management Tool
+  -> Test Case Management Tool etc..
+
+=========================================
+
+ Jenkins
+ ========
+
+  -> CICD Tool - Continuous Integration and Continuous Deployment / Development
+  -> Automation of Automation Tool
+  -> JOB
+  -> Reports/Results
+  -> Console Reports -> Git issues, Extend Report
+  -> Local Resolve
+  -> Repush -> automatically it integrate to Jenkins
