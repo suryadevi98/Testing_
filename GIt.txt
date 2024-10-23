@@ -73,4 +73,8 @@ git remote add origin repository url
 Step 6 : Push To Remote Master
 ======
 
-git push -u orgin master
+git push -u origin Branch name
+
+Step 7: Create New Branch
+
+git checkout -b new branch name
