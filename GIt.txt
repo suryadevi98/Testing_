@@ -1,0 +1,75 @@
+
+ GIT:
+ ===
+
+-> GIT Stands For : Global Information Tracker
+
+-> Git is an example for Distributed Version Control System[DVCS]
+
+-> Version control system is a software that helps developers and testers to work together and maintain the script and its history.
+
+->SCM -> Source Code Management tool
+
+ Three Important Steps:
+ ======================
+
+
+ 1.Push-upload
+
+ 2.Pull-download+merge
+
+ 3.Clone - download - copy of the main repo or source
+
+================================================================
+
+Push:
+====
+
+Local repository to Remote Repository : .git to GITHUB Repository
+
+Pull: (download + merge)
+=====
+
+Remote Repository to local repository : GITHUB to .git
+
+================================================================
+
+Steps to Push the Code
+======================
+
+step 1: For Configuration
+======
+
+git config --global user.email ""
+
+git config --global user.name Surya
+
+
+Step 2: Initialize the local Repository (repo)
+======
+
+git init
+
+
+Step  3 : Add  all the 	files into local repo
+=======
+
+git add .
+
+
+Step 4 : For Declaration - Staging Area
+======
+
+git commit -m ""
+
+
+Step 5 : Connect to remote repository
+======
+
+git remote add origin repository url
+
+
+Step 6 : Push To Remote Master
+======
+
+git push -u orgin master
